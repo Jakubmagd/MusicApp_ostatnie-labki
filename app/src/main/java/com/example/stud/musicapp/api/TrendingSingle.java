@@ -13,5 +13,5 @@ public class TrendingSingle {
     public String strAlbum ;
     public String strArtist ;
     public String strTrack ;
-    public String strTrackThumb ;
+    public String strTrackThumb ; ////
 }
