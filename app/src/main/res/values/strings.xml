@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Music App</string>
+    <string name="top_songs">Utwory tygodnia</string>
+    <string name="album">Album</string>
+    <string name="genre">Gatunek</string>
+    <string name="style">Styl</string>
+    <string name="favorites">Ulubione</string>
+    <string name="top_songs_details">Szeczegóły</string>
+    <string name="searchalbum">Wyszukaj album</string>
+    <string name="Szukaj">Szukaj</string>
+    <string name="wprowadz">Wprowadz nazwisko wykonawcy</string>
+
+</resources>
