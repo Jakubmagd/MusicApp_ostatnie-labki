@@ -9,5 +9,12 @@
     <string name="searchalbum">Wyszukaj album</string>
     <string name="Szukaj">Szukaj</string>
     <string name="wprowadz">Wprowadz nazwisko wykonawcy</string>
+    <string name="score">score</string>
+    <string name="sales">sales</string>
+    <string name="year_released">year</string>
+    <string name="sort_by_name">name</string>
+    <string name="sort_by_year">sortbyyear</string>
+    <string name="sort_by_sale">sortbysale</string>
+    <string name="sort_by_score">sortbyscore</string>
 
 </resources>
